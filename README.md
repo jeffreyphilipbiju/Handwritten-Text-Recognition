@@ -333,7 +333,7 @@ This project demonstrates:
 
 # Author
 
-Jeff Phil
+Jeffrey Philip
 
 ---
 
